@@ -236,6 +236,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://searx.space/favicon.png" height="14" /> [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) - A Model Context Protocol Server for [SearXNG](https://docs.searxng.org)
 - <img src="https://pragmar.com/media/static/images/mcp-server-webcrawl/favicon.png" height="14" /> [mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) - Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.
 
+- [Base HTTP 402 Web Extractor](https://github.com/psicossz29-netizen/base-http402-extractor-api) - Clean web-to-markdown extraction for LLMs with on-chain micro-metering on Base.
+
 <br />
 
 ## 🗺️ <a name="location-services"></a>Location Services
